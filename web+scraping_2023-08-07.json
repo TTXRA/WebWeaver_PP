@@ -1,0 +1,72 @@
+[
+    {
+        "Title": "Web scraping",
+        "Author(s)": "B Zhao",
+        "Publication": "Encyclopedia of big data, 2017 - researchgate.net",
+        "Fragment": "… website, the requested resource will be retrieved from the website and then sent back to the give web scraping … The resource can be in multiple formats, such as web pages that are built …",
+        "Link": "https://www.researchgate.net/profile/Bo-Zhao-3/publication/317177787_Web_Scraping/links/5c293f85a6fdccfc7073192f/Web-Scraping.pdf"
+    },
+    {
+        "Title": "Web scraping technologies in an API world",
+        "Author(s)": "D Glez-Peña, A Lourenço…",
+        "Publication": "Briefings in …, 2014 - academic.oup.com",
+        "Fragment": "… potentially in need of Web data scraping, the aim of this article … of a Web scraper and to pinpoint how existing scraping tools … The second section defines the Web scraping technique, …",
+        "Link": "https://academic.oup.com/bib/article-abstract/15/5/788/2422275"
+    },
+    {
+        "Title": "A comparative study on web scraping",
+        "Author(s)": "DS Sirisuriya",
+        "Publication": "2015",
+        "Fragment": "… about web scraping techniques and famous web scraping … web scraping techniques and some famous web scraping software. The outcome of this study offers a review on web scraping …",
+        "Link": "http://ir.kdu.ac.lk/handle/345/1051"
+    },
+    {
+        "Title": "Web scraping: state-of-the-art and areas of application",
+        "Author(s)": "R Diouf, EN Sarr, O Sall, B Birregah…",
+        "Publication": "… Conference on Big …, 2019 - ieeexplore.ieee.org",
+        "Fragment": "… The purpose of this article is to revisit the different existing Web Scraping approaches, … applications of web scraping. At the end of this study, we have noticed that Web scraping is more …",
+        "Link": "https://ieeexplore.ieee.org/abstract/document/9005594/"
+    },
+    {
+        "Title": "Web scraping with Python: Collecting more data from the modern web",
+        "Author(s)": "R Mitchell",
+        "Publication": "2018",
+        "Fragment": "… web scraping, while providing a comprehensive guide to most common web scraping tasks. … , but I believe they are covered in enough detail to get you started writing web scrapers! …",
+        "Link": "https://books.google.com/books?hl=pt-BR&lr=&id=TYtSDwAAQBAJ&oi=fnd&pg=PT30&dq=web+scraping&ots=y1CZwComjh&sig=A26fKIekz11kLOY4FfaYu_-nyes"
+    },
+    {
+        "Title": "Web scraping with Python",
+        "Author(s)": "R Lawson",
+        "Publication": "2015",
+        "Fragment": "… learn about web scraping and try to block our scrapers. Using our own custom website avoids these … with an automated solution using the web scraping techniques covered in this book. …",
+        "Link": "https://books.google.com/books?hl=pt-BR&lr=&id=V_l_CwAAQBAJ&oi=fnd&pg=PP1&dq=web+scraping&ots=G0Ek4sOx3o&sig=gCHoeyJEhv2BGWyflEt-8cS0eKQ"
+    },
+    {
+        "Title": "Web Scraping or Web Crawling: State of Art, Techniques, Approaches and Application.",
+        "Author(s)": "MA Khder",
+        "Publication": "International Journal of Advances in Soft Computing & …, 2021 - ijasca.zuj.edu.jo",
+        "Fragment": "… are required to implement web scrapping properly such as … into what web scraping is, how it works, web scraping stages, … of web scraping, and what the future of web scraping may look …",
+        "Link": "http://ijasca.zuj.edu.jo/PapersUploaded/2021.3.11.pdf"
+    },
+    {
+        "Title": "Data analysis by web scraping using python",
+        "Author(s)": "DM Thomas, S Mathur",
+        "Publication": "2019 3rd International conference on …, 2019 - ieeexplore.ieee.org",
+        "Fragment": "… The Web Scraper’s conniving ethics and procedures are … scraper is premeditated. The technique of it is allocated into three fragments: the web scraper draws the desired links from web, …",
+        "Link": "https://ieeexplore.ieee.org/abstract/document/8822022/"
+    },
+    {
+        "Title": "Legality and ethics of web scraping",
+        "Author(s)": "V Krotov, L Silva",
+        "Publication": "2018",
+        "Fragment": "… Automatic retrieval of data from the Web (often referred to as Web Scraping) for industry and … facilitate Web Scraping. Unfortunately, the legality and ethics of using these Web Scraping …",
+        "Link": "https://www.researchgate.net/profile/Vlad-Krotov/publication/324907302_Legality_and_Ethics_of_Web_Scraping/links/5aea622345851588dd8287dc/Legality-and-Ethics-of-Web-Scraping.pdf"
+    },
+    {
+        "Title": "Tutorial: Legality and ethics of web scraping",
+        "Author(s)": "V Krotov, L Johnson, L Silva",
+        "Publication": "2020",
+        "Fragment": "… solutions to Web Scraping problems and tools for specific Web Scraping applications that … papers related to Web Scraping. Collectively, these papers show that Web Scraping is an …",
+        "Link": "https://digitalcommons.murraystate.edu/faculty/86/"
+    }
+]
